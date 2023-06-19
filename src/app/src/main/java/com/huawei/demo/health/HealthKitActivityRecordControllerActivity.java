@@ -146,7 +146,7 @@ public class HealthKitActivityRecordControllerActivity extends AppCompatActivity
 
     /**
      * Start an keep background running activity record
-     *
+     * new
      * @param view indicating a UI object
      */
     public void beginBackgroundActivityRecord(View view) {
